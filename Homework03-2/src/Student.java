@@ -1,7 +1,7 @@
 public class Student {
     private String name;
     private int score;
-    private int totalScore;
+    private double totalScore;
     private int index;
 
     public Student(String name, int score)
